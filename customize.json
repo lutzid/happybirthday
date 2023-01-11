@@ -1,0 +1,23 @@
+{
+  "greeting": "Hi",
+  "name": "",
+  "greetingText": "Do you know what today is?",
+  "wishText": "",
+  "imagePath": "img/uti.jpg",
+  "text1": "",
+  "textInChatBox": "Happy birthday to you!! Yayyy! I wish you ...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "",
+  "smiley": "",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "",
+  "replayText": "",
+  "outroSmiley": ":)"
+}
